@@ -7,4 +7,5 @@ A flutter application ui which shows a list of books and its details.
 <p>
   <img src = "assets/book1.jpeg" width="250">
   <img src = "assets/book2.jpeg" width="250">
+  <img src = "assets/book3.jpeg" width="250">
  </p>
